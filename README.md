@@ -61,4 +61,4 @@ Uses a Supervisor pattern with 4 specialized agents:
 - Login problems
 - Premium upgrades
 
-# architecture design could be found under agentic/design/architecture.md
+## architecture design could be found under agentic/design/architecture.md
