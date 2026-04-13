@@ -1,6 +1,6 @@
 # UDA-Hub Solution
 
-A multi-agent customer support system built with LangGraph for the CultPass cultural experiences platform.
+A multi-agent customer support system built for the CultPass cultural experiences platform.
 
 ## Requirements
 
@@ -35,8 +35,8 @@ A multi-agent customer support system built with LangGraph for the CultPass cult
 
 Uses a Supervisor pattern with 4 specialized agents:
 
-1. **Supervisor Agent** - Entry point and workflow initialization
-2. **Classifier Agent** - Categorizes tickets by type, intent, urgency
+1. **Classifier Agent** - Categorizes tickets by type, intent, urgency
+2. **researcher Agent** -researches
 3. **Resolver Agent** - Resolves using knowledge base and tools
 4. **Escalation Agent** - Handles complex cases for human support
 
